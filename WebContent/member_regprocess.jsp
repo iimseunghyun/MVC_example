@@ -7,7 +7,7 @@
 	String name = request.getParameter("name");
 	String url = "jdbc:mariadb://localhost:3306/mvcsample";
 	String user = "root";
-	String pw = "gustmddla426";
+	String pw = "***";
 	Connection con = null;
 	Statement stmt = null;
 	int res = 0;
